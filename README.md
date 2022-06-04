@@ -1,7 +1,13 @@
 # TCP-Flooder
 TCP Flooder with python script.
 
-How to install?
+DDoS TCP Flood attack is a condition where the attacker exploits the three-way handshaking mechanism of the TCP connection establishment process, where the server will be flooded with requests for SYN packets without being responded by the server.
+
+### Translate 
+
+Serangan DDoS TCP Flood adalah kondisi dimana penyerang mengeksploitasi mekanisme three-way handshaking dari proses pembentukan koneksi TCP, dimana server akan dibanjiri dengan permintaan paket-paket SYN tanpa sempat direspon oleh server.
+
+### How to install?
 1. ``$ git clone https://github.com/RCode777/TCP-Flooder``
 2. ``$ cd TCP Flooder``
 3. ``$ pip3 install progressbar``
@@ -17,4 +23,8 @@ How to install?
 
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/92700881/171971103-d8947a6f-dced-48c8-9f64-e62e69dd35e6.png)
+
+
+
+![Screenshot (99)](https://user-images.githubusercontent.com/92700881/171971383-c361b386-6dae-4a78-9904-8a4dafe02e53.png)
 
