@@ -6,3 +6,15 @@ How to install?
 2. ``$ cd TCP Flooder``
 3. ``$ pip3 install progressbar``
 4. ``$ python3 attack.py``
+
+# Screenshot
+![Screenshot (94)](https://user-images.githubusercontent.com/92700881/171971109-f277aa44-64eb-4e0e-936c-1a1768955a5e.png)
+
+
+
+![Screenshot (95)](https://user-images.githubusercontent.com/92700881/171971099-1dfeca96-b94c-452c-9096-d3416c5ede87.png)
+
+
+
+![Screenshot (97)](https://user-images.githubusercontent.com/92700881/171971103-d8947a6f-dced-48c8-9f64-e62e69dd35e6.png)
+
